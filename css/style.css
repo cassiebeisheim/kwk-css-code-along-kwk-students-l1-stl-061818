@@ -7,4 +7,5 @@ body {
 .beepbeep {
   font-family: century;
   font-size: 300%;
+  border: 10px dotted red;
 }
