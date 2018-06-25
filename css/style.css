@@ -5,6 +5,7 @@ body {
 }
 
 .beepbeep {
+  color: white;
   font-family: helvetica;
   font-size: 300%;
   border: 10px dotted red;
